@@ -1,0 +1,439 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x106)
+    Vendor:   Intel
+    VRAM:     412 MB
+    Driver:   9.17.10.3517
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.292067 ms
+Backward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 17d4 -> priority: 1 
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x106)
+    Vendor:   Intel
+    VRAM:     412 MB
+    Driver:   9.17.10.3517
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.383228 ms
+Backward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1234 -> priority: 1 
+Message from server is : {"name":"1","position":"0,0,0"}OnUserPlay
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"1","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"2","position":"0,0,0"}OnUserPlay
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"2","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x106)
+    Vendor:   Intel
+    VRAM:     412 MB
+    Driver:   9.17.10.3517
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.315612 ms
+Backward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 670 -> priority: 1 
+Message from server is : {"name":"1","position":"-0.9932368,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"2","position":"2.372929,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"3","position":"0,0,0"}OnUserPlay
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"3","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"3","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x106)
+    Vendor:   Intel
+    VRAM:     412 MB
+    Driver:   9.17.10.3517
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.569418 ms
+Backward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: ad0 -> priority: 1 
+Message from server is : {"name":"1","position":"2.949181,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"2","position":"4.678326,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"3","position":"7.451201,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"4","position":"0,0,0"}OnUserPlay
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"4","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"4","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"4","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x106)
+    Vendor:   Intel
+    VRAM:     412 MB
+    Driver:   9.17.10.3517
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\KULIAH\Semester 6\Praktikum Game Multiplayer\Final Project\FP-CloudServer\Client\RumbleArena\Build\Prototype_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.268522 ms
+Backward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Forward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 14a0 -> priority: 1 
+Message from server is : {"name":"1","position":"2.949181,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"2","position":"4.678326,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"3","position":"7.451201,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"4","position":"1.136407,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"5","position":"0,0,0"}OnUserPlay
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"5","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"5","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"5","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message from server is : {"name":"5","position":"0,0,0"}OnUserConnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
